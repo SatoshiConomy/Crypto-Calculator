@@ -9,7 +9,7 @@
 
 The aim of the game is to make investments but own your coin. Exchanges are great for purchasing and selling quickly but not for security. (Custodial hot wallet) So put your coin in a non custodial, cold wallet but then how do you monitor it? An exchange can no longer tell you what your coin/investment is valued at.
 
-Crypto-Calculator solves both of these. If you have crypto in multiple places, this allows you to monitor offline wallets through Blockchain Explorers while getting insights on tokens currently on an exchange. It's quicker than using Crypto.com's interface especially when you just want a quick snapshot of the market. It's arguably more secure since it would mean accessing sensitive exchange apps or exposing less pin numbers.
+Crypto-Calculator solves both of these. If you have crypto in multiple places, this allows you to monitor offline wallets through Blockchain Explorers while getting insights on tokens currently on an exchange. It's quicker than using Crypto.com's interface especially when you just want a quick snapshot of the market. It's arguably more secure since it would mean accessing sensitive exchange apps fewer times or exposing less pin numbers.
 
 ## Why
 - Quicker than manually checking market on Crypto.com app installed in encrypted folder behind 3 passwords.
