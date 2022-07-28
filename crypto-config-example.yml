@@ -1,0 +1,42 @@
+apecoin-ape:
+  asset: 13.66
+  invested: 2.0
+  purchases:
+    3.26.22:
+    - $2
+    - 2 APE
+    - '@2'
+  satoshi: 2.0
+  symbol: APE
+  ticker:
+    24HR: +9.20%
+    price: 6.83
+filecoin:
+  asset: 5.73
+  invested: 1.0
+  purchases:
+    3.28.22:
+    - $1
+    - 1 FIL
+    - '@1'
+  satoshi: 1.0
+  symbol: FIL
+  ticker:
+    24HR: -0.40%
+    price: 5.73
+gitcoin:
+  asset: 0.01
+  invested: 1.0
+  purchases:
+    7.2.22:
+    - $1.00
+    - .005247 GTC
+    - '@1.00'
+  satoshi: 0.005247
+  symbol: GTC
+  ticker:
+    24HR: +5.88%
+    price: 2.64
+total:
+  cost: 4.0
+  value: 19.400000000000002
